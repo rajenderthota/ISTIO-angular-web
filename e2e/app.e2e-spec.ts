@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('k8s-fleetman-webapp-angular App', () => {
+describe('k8s-am-webapp-angular App', () => {
   let page: AppPage;
 
   beforeEach(() => {
